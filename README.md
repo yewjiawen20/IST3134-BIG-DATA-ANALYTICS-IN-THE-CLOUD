@@ -98,4 +98,4 @@ Spark outperformed Python overall (1.21x speedup), with the advantage concentrat
 
 ## Author
 
-Yew Jia Wen (22070817)
+Yew Jia Wen - 22070817@imail.sunway.edu.my

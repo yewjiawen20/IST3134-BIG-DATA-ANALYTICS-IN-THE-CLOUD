@@ -1,0 +1,27 @@
+metric,value
+platform,Python (pandas + scikit-learn)
+raw_row_count,23992355
+clean_row_count,16803729
+total_time_sec,148.148
+model_rmse,13.457
+model_r2,0.451
+stage_load_data_time_sec,6.683
+stage_cleaning_time_sec,70.568
+stage_join_zones_time_sec,3.735
+stage_aggregation_zone_hour_time_sec,1.486
+stage_aggregation_day_of_week_time_sec,0.884
+stage_aggregation_payment_type_time_sec,4.815
+stage_join_do_zone_time_sec,2.868
+stage_aggregation_borough_flow_time_sec,1.293
+stage_ml_training_time_sec,54.624
+stage_ml_evaluation_time_sec,1.192
+stage_load_data_peak_memory_mb,1647.55
+stage_cleaning_peak_memory_mb,2551.54
+stage_join_zones_peak_memory_mb,929.49
+stage_aggregation_zone_hour_peak_memory_mb,689.12
+stage_aggregation_day_of_week_peak_memory_mb,256.43
+stage_aggregation_payment_type_peak_memory_mb,817.3
+stage_join_do_zone_peak_memory_mb,929.49
+stage_aggregation_borough_flow_peak_memory_mb,544.88
+stage_ml_training_peak_memory_mb,2334.21
+stage_ml_evaluation_peak_memory_mb,459.34

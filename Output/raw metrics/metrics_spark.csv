@@ -1,0 +1,11 @@
+platform,stage,execution_time_sec,raw_row_count,clean_row_count,rmse,r2
+AWS Spark (EMR),Load Data,17.9,23992355,16803729,13.379,0.458
+AWS Spark (EMR),Data Cleaning,23.22,23992355,16803729,13.379,0.458
+AWS Spark (EMR),Join Pickup Zone,21.95,23992355,16803729,13.379,0.458
+AWS Spark (EMR),Aggregation Zone Hour,0.05,23992355,16803729,13.379,0.458
+AWS Spark (EMR),Aggregation Day Of Week,0.03,23992355,16803729,13.379,0.458
+AWS Spark (EMR),Aggregation Payment Type,0.07,23992355,16803729,13.379,0.458
+AWS Spark (EMR),Join Dropoff Zone + Borough Flow,0.08,23992355,16803729,13.379,0.458
+AWS Spark (EMR),ML Training,35.66,23992355,16803729,13.379,0.458
+AWS Spark (EMR),ML Prediction Evaluation,13.31,23992355,16803729,13.379,0.458
+AWS Spark (EMR),Total Pipeline,122.75,23992355,16803729,13.379,0.458

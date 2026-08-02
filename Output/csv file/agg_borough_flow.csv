@@ -1,0 +1,48 @@
+PU_Borough,DO_Borough,trip_count,avg_fare,avg_distance
+Manhattan,Manhattan,13753042,13.84,1.84
+Queens,Manhattan,940542,57.51,13.78
+Manhattan,Queens,410055,48.11,11.15
+Manhattan,Brooklyn,368620,33.55,6.86
+Queens,Queens,334061,35.15,7.51
+Queens,Brooklyn,286211,55.12,13.14
+Brooklyn,Brooklyn,149993,22.64,3.88
+Manhattan,Bronx,92934,35.93,9.0
+Brooklyn,Manhattan,85107,37.83,9.24
+Bronx,Manhattan,68919,33.98,8.57
+Brooklyn,Queens,45398,40.42,10.7
+Queens,Bronx,39121,58.91,15.46
+Manhattan,EWR,36035,96.76,17.58
+Manhattan,Unknown,21532,15.08,2.09
+Bronx,Brooklyn,17239,54.13,16.99
+Brooklyn,Bronx,16853,54.73,17.02
+Bronx,Queens,15007,43.58,13.17
+Unknown,Manhattan,14582,20.94,3.69
+Unknown,Unknown,10539,17.09,2.69
+Bronx,Bronx,9555,22.25,3.45
+Queens,Staten Island,1892,101.39,26.38
+Manhattan,Staten Island,1597,80.04,19.11
+Queens,EWR,1370,153.61,33.36
+Unknown,Queens,1158,40.01,8.95
+Queens,Unknown,910,59.27,13.6
+Unknown,Brooklyn,896,46.96,10.41
+Brooklyn,Staten Island,432,19.9,8.97
+Staten Island,Staten Island,172,16.09,2.33
+Staten Island,Brooklyn,138,7.61,7.53
+Brooklyn,EWR,133,111.45,18.98
+EWR,EWR,109,79.76,1.37
+Unknown,Bronx,105,49.32,11.83
+Staten Island,Manhattan,74,26.7,12.37
+EWR,Manhattan,70,94.4,17.79
+Unknown,EWR,63,95.84,19.04
+Brooklyn,Unknown,50,27.39,5.34
+Staten Island,Queens,19,62.39,19.83
+Bronx,Staten Island,8,88.59,25.56
+EWR,Brooklyn,6,105.63,20.28
+Unknown,Staten Island,6,97.38,25.93
+EWR,Queens,5,139.24,27.37
+Staten Island,EWR,5,105.76,11.62
+EWR,Staten Island,5,69.98,14.13
+Staten Island,Bronx,5,76.9,23.84
+Bronx,EWR,4,118.55,26.63
+Bronx,Unknown,4,40.95,3.94
+EWR,Bronx,1,179.1,43.27

@@ -23,7 +23,7 @@ Each question is answered twice - once via the Spark/EMR pipeline, once via the 
 - **Format:** Apache Parquet, plus the Taxi Zone Lookup CSV (zone ID -> borough/zone name)
 - **Scale:** 23,992,355 raw rows -> 16,803,729 rows after cleaning, 20 columns per record
 
-Raw dataset files are **not committed to this repository** due to size - download them directly from the TLC link above, or via the OneDrive link in [Resources](#resources).
+Raw dataset files was commited in the folder dataset, or can be downloaded directly from the TLC link above, or via the OneDrive link in [Resources](#resources).
 
 ## Repository Structure
 

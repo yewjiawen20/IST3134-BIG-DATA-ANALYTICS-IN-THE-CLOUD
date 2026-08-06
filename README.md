@@ -91,7 +91,7 @@ Spark outperformed Python overall (1.21x speedup), with the advantage concentrat
 
 ## Resources
 
-- **Full Report:** [IST3134_Full_Report](https://imailsunwayedu-my.sharepoint.com/:w:/g/personal/22070817_imail_sunway_edu_my/IQCq8_LIBR-_RoN1-aDokncxAayMmbzLOsdVj1exC7OAEQU?e=BckBcb) 
+- **Full Report:** [IST3134_Full_Report](https://imailsunwayedu-my.sharepoint.com/personal/22070817_imail_sunway_edu_my/Documents/IST3134%20BIG%20DATA%20ANALYTICS%20IN%20THE%20CLOUD/BDA%20Final%20GRP%20Assignment/IST3134%20BDA%20Final%20Group%20Assignment.pdf) 
 - **OneDrive** (dataset, outputs, backup copy of all files): [BDA Final GRP Assignment](https://imailsunwayedu-my.sharepoint.com/my?id=%2Fpersonal%2F22070817%5Fimail%5Fsunway%5Fedu%5Fmy%2FDocuments%2FIST3134%20BIG%20DATA%20ANALYTICS%20IN%20THE%20CLOUD%2FBDA%20Final%20GRP%20Assignment&ga=1 )
 - **AWS S3 Static Site** (browsable view of the S3 bucket used by the Spark pipeline): http://bda-yellowtaxi.s3-website-us-east-1.amazonaws.com
 - **Dataset source:** https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
